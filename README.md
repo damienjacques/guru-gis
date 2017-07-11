@@ -1,4 +1,4 @@
-# guru-gis
+# Guru GIS
 
 Back-up of guru-gis.net
 
